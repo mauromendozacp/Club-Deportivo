@@ -1,0 +1,69 @@
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.csprojResolveAssemblyReference.cache
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.MenuPrincipal.resources
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.Properties.Resources.resources
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.csproj.GenerateResource.Cache
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\MaritoFormPractice.exe.config
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\MaritoFormPractice.exe
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\MaritoFormPractice.pdb
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.exe
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.pdb
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormIngSoc.resources
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\Club Deportivo.dll
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\Club Deportivo.pdb
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormBuscSoc.resources
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormVerDatos.resources
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\MaritoFormPractice.exe.config
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\MaritoFormPractice.exe
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\MaritoFormPractice.pdb
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\Club Deportivo.dll
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\Club Deportivo.pdb
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.csprojResolveAssemblyReference.cache
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormBuscSoc.resources
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormIngSoc.resources
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormVerDatos.resources
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.MenuPrincipal.resources
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.Properties.Resources.resources
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.csproj.GenerateResource.Cache
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.exe
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.pdb
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormIngFam.resources
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.csprojResolveAssemblyReference.cache
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormBuscSoc.resources
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormIngFam.resources
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormIngSoc.resources
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormVerDatos.resources
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.MenuPrincipal.resources
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.Properties.Resources.resources
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.csproj.GenerateResource.Cache
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.exe
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.pdb
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\MaritoFormPractice.exe.config
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\MaritoFormPractice.exe
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\MaritoFormPractice.pdb
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\Club Deportivo.dll
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\Club Deportivo.pdb
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormBuscFam.resources
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormIngPrac.resources
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\Logica.dll
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\Logica.pdb
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.csprojAssemblyReference.cache
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormBuscFam.resources
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormBuscSoc.resources
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormIngFam.resources
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormIngPrac.resources
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormIngSoc.resources
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.FormVerDatos.resources
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.MenuPrincipal.resources
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.Properties.Resources.resources
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.csproj.GenerateResource.cache
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.csproj.CoreCompileInputs.cache
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.exe
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.pdb
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\MaritoFormPractice.exe.config
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\MaritoFormPractice.exe
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\MaritoFormPractice.pdb
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\Club Deportivo.dll
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\Logica.dll
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\Club Deportivo.pdb
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\bin\Debug\Logica.pdb
+D:\Proyectos\Club Deportivo Familiar\MaritoFormPractice\obj\Debug\MaritoFormPractice.csproj.CopyComplete

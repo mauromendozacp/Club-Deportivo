@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{150AC216-04CE-4DA3-BC70-D116C462B718}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MaritoFormPractice</RootNamespace>
+    <AssemblyName>MaritoFormPractice</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormBuscFam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBuscFam.Designer.cs">
+      <DependentUpon>FormBuscFam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBuscSoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBuscSoc.Designer.cs">
+      <DependentUpon>FormBuscSoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormIngFam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIngFam.Designer.cs">
+      <DependentUpon>FormIngFam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormIngPrac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIngPrac.Designer.cs">
+      <DependentUpon>FormIngPrac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormIngSoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIngSoc.Designer.cs">
+      <DependentUpon>FormIngSoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVerDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVerDatos.Designer.cs">
+      <DependentUpon>FormVerDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormBuscFam.resx">
+      <DependentUpon>FormBuscFam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBuscSoc.resx">
+      <DependentUpon>FormBuscSoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIngFam.resx">
+      <DependentUpon>FormIngFam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIngPrac.resx">
+      <DependentUpon>FormIngPrac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIngSoc.resx">
+      <DependentUpon>FormIngSoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVerDatos.resx">
+      <DependentUpon>FormVerDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Club Deportivo\Club Deportivo.csproj">
+      <Project>{989c4bc1-23ab-4966-950f-332abd3eacfe}</Project>
+      <Name>Club Deportivo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logica\Logica.csproj">
+      <Project>{6985df9b-0d09-41bc-835e-68ccf5b8efe1}</Project>
+      <Name>Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

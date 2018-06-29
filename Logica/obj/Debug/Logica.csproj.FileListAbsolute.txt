@@ -1,0 +1,16 @@
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Logica\bin\Debug\Logica.dll
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Logica\bin\Debug\Logica.pdb
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Logica\bin\Debug\Club Deportivo.dll
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Logica\bin\Debug\Club Deportivo.pdb
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Logica\obj\Debug\Logica.dll
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Logica\obj\Debug\Logica.pdb
+D:\Proyectos\Club Deportivo Familiar\Logica\bin\Debug\Logica.dll
+D:\Proyectos\Club Deportivo Familiar\Logica\bin\Debug\Logica.pdb
+D:\Proyectos\Club Deportivo Familiar\Logica\bin\Debug\Club Deportivo.dll
+D:\Proyectos\Club Deportivo Familiar\Logica\bin\Debug\Club Deportivo.pdb
+D:\Proyectos\Club Deportivo Familiar\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+D:\Proyectos\Club Deportivo Familiar\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Proyectos\Club Deportivo Familiar\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Proyectos\Club Deportivo Familiar\Logica\obj\Debug\Logica.dll
+D:\Proyectos\Club Deportivo Familiar\Logica\obj\Debug\Logica.pdb

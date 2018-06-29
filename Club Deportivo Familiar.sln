@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaritoFormPractice", "MaritoFormPractice\MaritoFormPractice.csproj", "{150AC216-04CE-4DA3-BC70-D116C462B718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Club Deportivo", "Club Deportivo\Club Deportivo.csproj", "{989C4BC1-23AB-4966-950F-332ABD3EACFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{6985DF9B-0D09-41BC-835E-68CCF5B8EFE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{150AC216-04CE-4DA3-BC70-D116C462B718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150AC216-04CE-4DA3-BC70-D116C462B718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150AC216-04CE-4DA3-BC70-D116C462B718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150AC216-04CE-4DA3-BC70-D116C462B718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{989C4BC1-23AB-4966-950F-332ABD3EACFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989C4BC1-23AB-4966-950F-332ABD3EACFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989C4BC1-23AB-4966-950F-332ABD3EACFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989C4BC1-23AB-4966-950F-332ABD3EACFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6985DF9B-0D09-41BC-835E-68CCF5B8EFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6985DF9B-0D09-41BC-835E-68CCF5B8EFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6985DF9B-0D09-41BC-835E-68CCF5B8EFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6985DF9B-0D09-41BC-835E-68CCF5B8EFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

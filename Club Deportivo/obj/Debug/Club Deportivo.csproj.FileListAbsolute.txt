@@ -1,0 +1,21 @@
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\bin\Debug\Club Deportivo.dll
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\bin\Debug\Club Deportivo.pdb
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\obj\Debug\Club Deportivo.csprojResolveAssemblyReference.cache
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\obj\Debug\Club Deportivo.dll
+D:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\obj\Debug\Club Deportivo.pdb
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\bin\Debug\Club Deportivo.dll
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\bin\Debug\Club Deportivo.pdb
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\obj\Debug\Club Deportivo.csprojResolveAssemblyReference.cache
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\obj\Debug\Club Deportivo.dll
+E:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\obj\Debug\Club Deportivo.pdb
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\bin\Debug\Club Deportivo.dll
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\bin\Debug\Club Deportivo.pdb
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\obj\Debug\Club Deportivo.csprojResolveAssemblyReference.cache
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\obj\Debug\Club Deportivo.dll
+G:\Guias de marito\6CP1\Forms\Guia 2\Club Deportivo Familiar\Club Deportivo\obj\Debug\Club Deportivo.pdb
+D:\Proyectos\Club Deportivo Familiar\Club Deportivo\bin\Debug\Club Deportivo.dll
+D:\Proyectos\Club Deportivo Familiar\Club Deportivo\bin\Debug\Club Deportivo.pdb
+D:\Proyectos\Club Deportivo Familiar\Club Deportivo\obj\Debug\Club Deportivo.csprojAssemblyReference.cache
+D:\Proyectos\Club Deportivo Familiar\Club Deportivo\obj\Debug\Club Deportivo.csproj.CoreCompileInputs.cache
+D:\Proyectos\Club Deportivo Familiar\Club Deportivo\obj\Debug\Club Deportivo.dll
+D:\Proyectos\Club Deportivo Familiar\Club Deportivo\obj\Debug\Club Deportivo.pdb
